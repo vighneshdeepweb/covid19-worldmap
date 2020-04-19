@@ -1,6 +1,6 @@
 {
   "name": "corona-map",
-  "homepage": "https://covid19-world.netlify.com",
+  "homepage": "https://covid19-world.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
